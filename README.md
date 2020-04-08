@@ -3,5 +3,4 @@
     信息提取出来，以便后期制作正式的起诉文件。由于IT部门给过来的数据是比较混乱的，人工手动提取信息会耗费大量的时间，所以编  
     写这个小程序以提高处理文件的效率。经过分析，IT部分返回的文件主要包含两种形式，下面以两个例子来说明，  
     第一种:  
-    ![dgfdfg]
-    (https://raw.githubusercontent.com/791092214/information_extraction/master/1586338081(1).png)
+![](https://github.com/791092214/information_extraction/blob/master/1586338081(1).png?raw=true)
